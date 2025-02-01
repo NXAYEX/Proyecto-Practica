@@ -43,7 +43,7 @@ def convertir(archivo):
         df.loc[i, 'Valor_Propio']=valor
     return df
     # Mostrar el DataFrame resultante
-m=convertir('MEDICAMENTOS-Prueba.xlsx')
+#m=convertir('MEDICAMENTOS-Prueba.xlsx')
     
 #Excel
     
